@@ -1,0 +1,1 @@
+Add-Content -Path "C:\Windows\System32\drivers\etc\hosts" -Value "10.3.2.50 c4t-prof-qa`n10.3.2.50 c4t-prof-qa.forecsys.ru"
